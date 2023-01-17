@@ -1,4 +1,3 @@
-package com.portfolio.wgr.Security;
 
 import com.portfolio.wgr.Security.Service.UserDetailsImpl;
 import com.portfolio.wgr.Security.jwt.JwtEntryPoint;
